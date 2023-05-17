@@ -2,6 +2,7 @@
   "name": "redux-toolkit",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://HS-doshi.github.io/Redux-Toolkit-Project/", 
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
